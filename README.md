@@ -4,6 +4,6 @@ This repository contains the study and its corresponding data, rubric, code, and
 ## Hook & Rubric Documents
 
 ## Data
-Our data is from the Our World in Data which can be accessed through this [Link](https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra?tab=table). Also 
+Our data is from the Our World in Data and contains numerous daily COVID-19 statistics from 2020 to 2024. It can be accessed through this [Link](https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra?tab=table) or in CSV format in the Data folder. For this study, you will focus on the 'daily infection' and 'death count' columns organized by continent (not individual country). 
 ## References
 The reference folder contains additional COVID-19 statistics, guidance on time-series modeling, effective pandemic response strategies, and information on confounding variables in pandemic measures.
