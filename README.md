@@ -4,6 +4,6 @@ This repository contains the study and its corresponding data, rubric, code, and
 ## Hook & Rubric Documents
 
 ## Data
-Our data is from the Our World in Data which can be accessed through this [Link]([https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra?tab=table])
+Our data is from the Our World in Data which can be accessed through this [Link](https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra?tab=table). Also 
 ## References
 The reference folder contains additional COVID-19 statistics, guidance on time-series modeling, effective pandemic response strategies, and information on confounding variables in pandemic measures.
