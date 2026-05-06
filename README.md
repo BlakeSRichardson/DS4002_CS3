@@ -5,7 +5,5 @@ This repository contains the study and its corresponding data, rubric, code, and
 
 ## Data
 
-## Code
-
 ## References
 The reference folder contains additional COVID-19 statistics, guidance on time-series modeling, effective pandemic response strategies, and information on confounding variables in pandemic measures.
