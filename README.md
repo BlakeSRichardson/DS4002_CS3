@@ -6,6 +6,6 @@ The hook document outlining this case can be found in the file [CS2_Hook](CS2_Ho
 ## Data
 Our data is from the Our World in Data and contains numerous daily COVID-19 statistics from 2020 to 2024. It can be accessed through this [link](https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra?tab=table) or in CSV format in the Data folder. For this study, you will focus on the 'daily infection' and 'death count' columns organized by continent (not individual country). 
 ## Code Output Resources
-Refer to the Code Output Resources folder for starter code to clean and process the dataset, as well as example forecast plots and statistical analysis code output
+Refer to the [Code Output](Code Output Resources) Resources folder for starter code to clean and process the dataset, as well as example forecast plots and statistical analysis code output
 ## Materials
 The materials folder contains additional COVID-19 statistics, guidance on time-series modeling, effective pandemic response strategies, and information on confounding variables in pandemic measures.
