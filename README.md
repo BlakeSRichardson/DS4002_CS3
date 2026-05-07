@@ -5,5 +5,5 @@ This repository contains the study and its corresponding data, rubric, code, and
 The hook document outlining this case can be found in the file [CS2_Hook](CS2_Hook.pdf). The rubric document containing assignment instructions and expectations can be found in the file [CS2_Rubric.pdf](CS2_Rubric.pdf) . 
 ## Data
 Our data is from the Our World in Data and contains numerous daily COVID-19 statistics from 2020 to 2024. It can be accessed through this [link](https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra?tab=table) or in CSV format in the Data folder. For this study, you will focus on the 'daily infection' and 'death count' columns organized by continent (not individual country). 
-## References
-The reference folder contains additional COVID-19 statistics, guidance on time-series modeling, effective pandemic response strategies, and information on confounding variables in pandemic measures.
+## Materials
+The materials folder contains additional COVID-19 statistics, guidance on time-series modeling, effective pandemic response strategies, and information on confounding variables in pandemic measures.
